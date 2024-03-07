@@ -1,9 +1,13 @@
 ## Table of Contents:
 * [Learning Objectives](#learning-objectives)
 * [Overview](#overview)
-* [Program Operation](#program-operation)
-* [Example](#example-of-program-execution)
-* [Grading](#turn-in-and-grading)
+* [The Sequence Class](#the-sequence-class)
+* [Required Member Functions](#required-member-functions)
+* [Error Handling](#error-handling)
+* [The Test Harness](#the-test-harness)
+* [Documentation and Style](#documentation-and-style)
+* [Example](#example-of-appropriate-code-style)
+* [Turn In and Grading](#turn-in-and-grading)
 
 ---
 
